@@ -28,7 +28,7 @@ namespace Plugin.SecureStorage
         /// <summary>
         /// Password for storage. Assign your own password and obfuscate the app.
         /// </summary>
-        public static string StoragePassword = "YourPassword";
+        public static string StoragePassword = "Replace With Your Password";
 
         private readonly char[] StoragePasswordArray;
 
