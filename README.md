@@ -1,15 +1,17 @@
-# Secure Storage Plugin for Xamarin and Windows Apps (iPhone, Android, UWP, Mac, Tizen)
-The plugin can be used to **Securely store** sensitive data strings such as password, session token, credit card number etc. This plugin securely stores the strings across sessions on iOS, Android, UWP, Mac and Tizen apps. Ver 2.0.0 is now compatible with **.net standard**.
+# Secure Storage Plugin for Xamarin and Windows Apps (iPhone, Android, Mac, Tizen)
+The plugin can be used to **Securely store** sensitive data strings such as password, session token, credit card number etc. This plugin securely stores the strings across sessions on iOS, Android, Mac and Tizen apps. Ver 2.0.0 is now compatible with **.net standard**.
 
 The supported platforms include:
 
 * iOS Unified
 * Android
-* UWP
 * MacOS (OSX)
 * Tizen
 
 It has easy to use API of key-value pairs. The pairs are saved using platform specific encryption mechanism. It has no dependencies on any packages (including Xamarin.Forms, MVVMCross.). And can be used by any Xamarin or UWP or Tizen app. It is open source.
+
+### Setup
+* Available on NuGet: https://www.nuget.org/packages/sameerIOTApps.Plugin.SecureStorage-updated/
 
 **Note**
 
